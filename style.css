@@ -12,8 +12,6 @@ body{
 
 #div-principal{
     display: flex;
-    background-image: url('avata-certo.jpg');
-   
     background-position: center; /* centraliza a imagem */
     background-repeat: no-repeat; 
      height: 80%;
